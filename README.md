@@ -40,6 +40,7 @@
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=ffffff)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure&logoColor=1572B6)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 **Development tools**
 
@@ -54,10 +55,10 @@
 
 <h3> 📫 How to reach me: </h3> 
 
-[![Linkedin:SEU NOME](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](#)
-[![Gmail Badge](https://img.shields.io/badge/-contato@lucasbarbosa.dev-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@lucasbarbosa.dev)](mailto:contato@lucasbarbosa.dev)
-[![Twitter:SEU NOME](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=LINK-DO-SEU-INSTAGRAM)](#)
-[![Twitch:SEU NOME](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&labelColor=9146FF&logo=twitch&logoColor=white&link=LINK-DA-SUA-TWITCH)](#)
-[![Instagram:SEU NOME](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM)](#)
-[![Discord:SEU NOME](https://img.shields.io/badge/-Discord-7389D8?style=flat-square&labelColor=7389D8&logo=discord&logoColor=white&link=LINK-DO-SEU-INSTAGRAM)](https://discordapp.com/users/208300330910220288)
+[![Linkedin:SEU NOME](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](#)
+[![Gmail Badge](https://img.shields.io/badge/-contato@lucasbarbosa.dev-006bed?style=flat&logo=Gmail&logoColor=white&link=mailto:contato@lucasbarbosa.dev)](mailto:contato@lucasbarbosa.dev)
+[![Twitter:SEU NOME](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=LINK-DO-SEU-INSTAGRAM)](#)
+[![Twitch:SEU NOME](https://img.shields.io/badge/-Twitch-9146FF?style=flat&labelColor=9146FF&logo=twitch&logoColor=white&link=LINK-DA-SUA-TWITCH)](#)
+[![Instagram:SEU NOME](https://img.shields.io/badge/-Instagram-DF0174?style=flat&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM)](#)
+[![Discord:SEU NOME](https://img.shields.io/badge/-Discord-7389D8?style=flat&labelColor=7389D8&logo=discord&logoColor=white&link=LINK-DO-SEU-INSTAGRAM)](https://discordapp.com/users/208300330910220288)
 [![GitHub SEU NOME](https://img.shields.io/github/followers/lucabarbos?label=follow&style=social)](https://github.com/lucabarbos/)
