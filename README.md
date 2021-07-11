@@ -41,7 +41,8 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure&logoColor=1572B6)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+  
 **Development tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
