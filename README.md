@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/X2inMZH.gif" min-width="220px" max-width="260px" width="200px" align="right" alt="Computador">
 
-                    Hi, I'm Lucas Barbosa, a Front-end Developer from Brazil
+    Hi, I'm Lucas Barbosa, a Front-end Developer from Brazil
 
 *"We are made of star-stuff. We are a way for the universe to know itself."*
 
